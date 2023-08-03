@@ -1,9 +1,195 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T01:16:14.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.6" etag="GS9TphyozMZCI1E-WgxP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T01:16:36.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nu23emoRJqcUk6tTUZyv" version="21.6.6" type="github">
   <diagram name="第 1 页" id="Gmqx7nZhL0gGTWTsM4mf">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2FAFC;strokeColor=none;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="940" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#E9E4FE;arcSize=8;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="690" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#9481F7;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-4" value="投资研究" style="text;html=1;strokeColor=none;fillColor=#9481F7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-5" value="标的准入" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="185" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-6" value="产品管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="185" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-7" value="组合管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="185" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#9481F7;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-9" value="决策交易" style="text;html=1;strokeColor=none;fillColor=#9481F7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-10" value="定向申购" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-11" value="询报价" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-12" value="留单" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-13" value="交割" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#9481F7;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-15" value="投后管理" style="text;html=1;strokeColor=none;fillColor=#9481F7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-16" value="持仓管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-17" value="票息/分红" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-18" value="卖出/call回" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-19" value="估值管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-20" value="投资组合" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-21" value="业绩归因分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-22" value="持有到期" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-23" value="报表" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-24" value="投资管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-25" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#C1FAF0;arcSize=8;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="690" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-26" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#00BDC7;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-27" value="风险指标管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="420" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-28" value="信用评级" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="183" y="447" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-29" value="投资规模占比" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="325" y="447" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-30" value="投资期限" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="183" y="492" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-31" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#00BDC7;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-32" value="风险分析测量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-33" value="交易对手评价" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="515" y="450" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-34" value="产品评价模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="655" y="450" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-35" value="舆情监控分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="515" y="492" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-36" value="单一机构投资上限" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="183" y="537" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-37" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;流动资金占比&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="325" y="537" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-38" value="操作风险" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="655" y="492" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-39" value="流动性风险模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="515" y="537" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-40" value="投资限额模型" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="655" y="537" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-41" value="风险管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-42" value="产品发行量" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#05919C;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="325" y="492" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-43" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#DDE8FE;arcSize=8;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="690" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-44" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#6C9BF0;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-45" value="基础数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="670" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-46" value="交易对手" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="183" y="697" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-47" value="账户" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="325" y="697" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-48" value="OU" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="183" y="742" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-49" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#6C9BF0;strokeColor=none;allowArrows=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="490" y="670" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-50" value="市场数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-51" value="行情" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="515" y="700" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-52" value="舆情" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="655" y="700" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-53" value="行业" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="515" y="742" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-54" value="宏观" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="655" y="742" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-55" value="主数据管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-56" value="产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#5C84CC;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="325" y="742" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-57" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#E9E4FE;arcSize=8;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="830" y="140" width="200" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-58" value="管理驾驶舱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="860" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-59" value="资金分布" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-60" value="交易对手方信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-61" value="未来现金流" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFz8aNUjR8qEiOmjt--f-62" value="风险指标水平" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fontFamily=阿里巴巴普惠体 Medium;fontColor=#FFFFFF;fillColor=#8069F2;strokeColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
